@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://felxmodaso-collab.github.io/re-form/sitemap.xml

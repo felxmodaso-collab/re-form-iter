@@ -1,0 +1,55 @@
+{
+  "source": "https://yandex.ru/maps/org/re_form/47524385462",
+  "fetchedAt": "2026-05-04T18:21:36.189Z",
+  "photos": [
+    {
+      "hash": "0769e2fc8878",
+      "url": "https://avatars.mds.yandex.net/get-altay/19532714/2a0000019b7a53cd76fe308043fc5cf08441/XXL_height",
+      "fromUrl": "https://avatars.mds.yandex.net/get-altay/19532714/2a0000019b7a53cd76fe308043fc5cf08441/XXL_height",
+      "file": "0769e2fc8878.jpg",
+      "size": 93566
+    },
+    {
+      "hash": "4dc68d75e1aa",
+      "url": "https://avatars.mds.yandex.net/get-altay/15251677/2a0000019b35db8289e1f753f6d154f78fda/orig",
+      "fromUrl": "https://avatars.mds.yandex.net/get-altay/15251677/2a0000019b35db8289e1f753f6d154f78fda/S",
+      "file": "4dc68d75e1aa.jpg",
+      "size": 41704
+    },
+    {
+      "hash": "ebe3f48c19ae",
+      "url": "https://avatars.mds.yandex.net/get-altay/19613367/2a0000019b61b3d2e1a16b39c10255a1acd0/orig",
+      "fromUrl": "https://avatars.mds.yandex.net/get-altay/19613367/2a0000019b61b3d2e1a16b39c10255a1acd0/S",
+      "file": "ebe3f48c19ae.jpg",
+      "size": 2747458
+    },
+    {
+      "hash": "ec494fbf554f",
+      "url": "https://avatars.mds.yandex.net/get-altay/16494614/2a0000019b60cec839c56b7433b093cbc7b2/orig",
+      "fromUrl": "https://avatars.mds.yandex.net/get-altay/16494614/2a0000019b60cec839c56b7433b093cbc7b2/S",
+      "file": "ec494fbf554f.jpg",
+      "size": 2747458
+    },
+    {
+      "hash": "6093e41678c0",
+      "url": "https://avatars.mds.yandex.net/get-altay/16415892/2a0000019b465749d36af63109fd7357e2ba/XXL_height",
+      "fromUrl": "https://avatars.mds.yandex.net/get-altay/16415892/2a0000019b465749d36af63109fd7357e2ba/XXL_height",
+      "file": "6093e41678c0.jpg",
+      "size": 64720
+    },
+    {
+      "hash": "53d776ecb015",
+      "url": "https://avatars.mds.yandex.net/get-altay/16439251/2a0000019bc83174b3cc55090d33ed43ed3e/orig",
+      "fromUrl": "https://avatars.mds.yandex.net/get-altay/16439251/2a0000019bc83174b3cc55090d33ed43ed3e/S",
+      "file": "53d776ecb015.jpg",
+      "size": 2492964
+    },
+    {
+      "hash": "f8c4f2b6be7d",
+      "url": "https://avatars.mds.yandex.net/get-altay/16157592/2a0000019b904909da857a08000d7e0d6f0d/orig",
+      "fromUrl": "https://avatars.mds.yandex.net/get-altay/16157592/2a0000019b904909da857a08000d7e0d6f0d/S",
+      "file": "f8c4f2b6be7d.jpg",
+      "size": 143573
+    }
+  ]
+}

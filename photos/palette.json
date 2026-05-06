@@ -1,0 +1,220 @@
+{
+  "combined": [
+    {
+      "hex": "#F7F8EE",
+      "weight": 0.1437142857142857,
+      "role": "Page BG (lightest)"
+    },
+    {
+      "hex": "#847D70",
+      "weight": 0.12821428571428573,
+      "role": "Neutral hairline"
+    },
+    {
+      "hex": "#BDAF9B",
+      "weight": 0.10578571428571429,
+      "role": "Mist / muted"
+    },
+    {
+      "hex": "#999997",
+      "weight": 0.10328571428571429,
+      "role": "Mist / muted"
+    },
+    {
+      "hex": "#71695D",
+      "weight": 0.103,
+      "role": "Neutral hairline"
+    },
+    {
+      "hex": "#A0907D",
+      "weight": 0.09885714285714285,
+      "role": "Mid-tone (sage/wood)"
+    },
+    {
+      "hex": "#5B5141",
+      "weight": 0.08514285714285715,
+      "role": "Neutral hairline"
+    },
+    {
+      "hex": "#A8AFB3",
+      "weight": 0.06335714285714286,
+      "role": "Mist / muted"
+    },
+    {
+      "hex": "#D2CDC2",
+      "weight": 0.055357142857142855,
+      "role": "Section bg (parchment)"
+    },
+    {
+      "hex": "#413627",
+      "weight": 0.055214285714285716,
+      "role": "Saturated accent"
+    },
+    {
+      "hex": "#1C1A12",
+      "weight": 0.029357142857142856,
+      "role": "Deep ink"
+    },
+    {
+      "hex": "#876843",
+      "weight": 0.028714285714285713,
+      "role": "Saturated accent"
+    }
+  ],
+  "perPhoto": {
+    "0769e2fc8878.jpg": [
+      {
+        "hex": "#BDAF9B",
+        "weight": 0.285
+      },
+      {
+        "hex": "#DAD0C0",
+        "weight": 0.236
+      },
+      {
+        "hex": "#9F8D74",
+        "weight": 0.197
+      },
+      {
+        "hex": "#7D6647",
+        "weight": 0.168
+      },
+      {
+        "hex": "#3E3221",
+        "weight": 0.114
+      }
+    ],
+    "4dc68d75e1aa.jpg": [
+      {
+        "hex": "#F9F8EF",
+        "weight": 0.948
+      },
+      {
+        "hex": "#49381D",
+        "weight": 0.023
+      },
+      {
+        "hex": "#695D49",
+        "weight": 0.013
+      },
+      {
+        "hex": "#D1CBBD",
+        "weight": 0.009
+      },
+      {
+        "hex": "#9D9584",
+        "weight": 0.007
+      }
+    ],
+    "53d776ecb015.jpg": [
+      {
+        "hex": "#A5A8A7",
+        "weight": 0.401
+      },
+      {
+        "hex": "#908A82",
+        "weight": 0.285
+      },
+      {
+        "hex": "#6A6257",
+        "weight": 0.181
+      },
+      {
+        "hex": "#393A31",
+        "weight": 0.099
+      },
+      {
+        "hex": "#E2D1BA",
+        "weight": 0.034
+      }
+    ],
+    "6093e41678c0.jpg": [
+      {
+        "hex": "#867B6B",
+        "weight": 0.343
+      },
+      {
+        "hex": "#A19A8E",
+        "weight": 0.3
+      },
+      {
+        "hex": "#645744",
+        "weight": 0.191
+      },
+      {
+        "hex": "#2F281C",
+        "weight": 0.085
+      },
+      {
+        "hex": "#BCCDDC",
+        "weight": 0.081
+      }
+    ],
+    "ebe3f48c19ae.jpg": [
+      {
+        "hex": "#7C7467",
+        "weight": 0.377
+      },
+      {
+        "hex": "#A5988A",
+        "weight": 0.205
+      },
+      {
+        "hex": "#BEB7AC",
+        "weight": 0.187
+      },
+      {
+        "hex": "#5A5040",
+        "weight": 0.167
+      },
+      {
+        "hex": "#272217",
+        "weight": 0.065
+      }
+    ],
+    "ec494fbf554f.jpg": [
+      {
+        "hex": "#7C7467",
+        "weight": 0.378
+      },
+      {
+        "hex": "#A5988A",
+        "weight": 0.208
+      },
+      {
+        "hex": "#BFB8AD",
+        "weight": 0.179
+      },
+      {
+        "hex": "#5B5041",
+        "weight": 0.171
+      },
+      {
+        "hex": "#272217",
+        "weight": 0.064
+      }
+    ],
+    "f8c4f2b6be7d.jpg": [
+      {
+        "hex": "#A29F9E",
+        "weight": 0.377
+      },
+      {
+        "hex": "#898279",
+        "weight": 0.229
+      },
+      {
+        "hex": "#655C4C",
+        "weight": 0.172
+      },
+      {
+        "hex": "#332B20",
+        "weight": 0.132
+      },
+      {
+        "hex": "#CFCCC1",
+        "weight": 0.09
+      }
+    ]
+  }
+}
